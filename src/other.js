@@ -1,15 +1,15 @@
-import axios from "axios";
+import axios from 'axios';
 
 function other() {
-   const config = {
+  const config = {
     headers: {
-        Accept: 'application/json'
-    }
-   }
+      Accept: 'application/json',
+    },
+  };
 
-   axios.get('https://icanhazdzdjoke.com', config).then(res => {
-    document.getElementById('joke').innerHTML = res.data.joke
-   })
+  axios.get('https://icanhazdzdjoke.com', config).then((res) => {
+    document.getElementById('joke').innerHTML = res.data.joke;
+  });
 }
 
 export default other;
