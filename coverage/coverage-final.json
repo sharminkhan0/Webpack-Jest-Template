@@ -1,0 +1,2 @@
+{"C:\\Users\\HP\\Desktop\\Webpack-Jest-Template\\src\\module\\test\\sum.js": {"path":"C:\\Users\\HP\\Desktop\\Webpack-Jest-Template\\src\\module\\test\\sum.js","statementMap":{"0":{"start":{"line":2,"column":4},"end":{"line":2,"column":15}}},"fnMap":{"0":{"name":"add","decl":{"start":{"line":1,"column":24},"end":{"line":1,"column":27}},"loc":{"start":{"line":1,"column":34},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"8bc3a5b98c47cd8e5cce50689f5d9be9495b6e2b"}
+}

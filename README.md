@@ -10,6 +10,20 @@
  - Asset Resource Loader
  - Source Maps
  - Caching
+
+ # Linters 
+ - hintrc
+ - eslintrc
+ - stylelintrc
+
+ # Jest.config.js 
+
+ - Bablerc
+ - Test
+ - Jest environment jsdom
+ - Jest localstorage mock
+ - Transform
+ - Jest Coverage
   
 # Usage
  - Run Dev Server (Port 3000)
@@ -23,3 +37,5 @@ The demo app is a very simple Joke generator. Replace with your own code and ins
  - index.js (main javascript)
  - template.html (template)
  - styles/main.scss (styles)
+ - Test.js 
+admmmmm
